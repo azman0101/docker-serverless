@@ -1,5 +1,5 @@
-FROM node:4.3.2
+FROM node:6.1
 
-MAINTAINER Eetu Tuomala <eetu.tuomala@sc5.io>
+MAINTAINER Azman0101 <azman0101@gmail.com>
 
 RUN npm install serverless -g
