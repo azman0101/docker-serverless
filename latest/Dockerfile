@@ -1,4 +1,4 @@
-FROM node:6.1
+FROM node:6.10
 
 MAINTAINER Azman0101 <azman0101@gmail.com>
 
